@@ -1,10 +1,30 @@
-.columns img {
+.columns1 img {
+  width: 300px;
+}
+.columns2 img {
+  width: 300px;
+}
+.columns3 img {
   width: 300px;
 }
 
-.columns {
+.columns1 {
   width: 400px;
   float: left;
+  background-color: grey;
+  padding-left: 10px;
+}
+.columns2 {
+  width: 400px;
+  float: left;
+  background-color: pink;
+  padding-left: 10px;
+}
+.columns3 {
+  width: 400px;
+  float: left;
+  background-color: purple;
+  padding-left: 10px;
 }
 
 h1 {
